@@ -1,0 +1,102 @@
+
+body{
+background-image: linear-gradient(to left,#51E2F5,#9DF9EF,#EDF7F6,#FFA8B6,#A280B9,#FFA8B6,#EDF7F6,#9DF9EF,#51E2F5);
+/*background-color:#121212;*/
+}
+#header{
+/*background-image: linear-gradient(180deg,#2C5F2D,#97BC62FF);*/
+background-color:#161b21;
+height: 150px;
+font-family: 'Covered By Your Grace', cursive;
+margin-left:10px;
+margin-right:10px;
+border-radius:6px;
+}
+#navbar ul {
+text-align:center;
+background-color:#f3ca20;
+height:50px;
+margin:10px;
+border-radius:6px;
+}
+
+li{
+padding-left:45px;
+display:inline;
+position:relative;
+top:30%;
+-webkit-transform: translateY(-50%);
+-ms-transform: translateY(-50%);
+transform: translateY
+}
+a{
+font-family:Arial;
+text-decoration:none;
+}
+a:hover{
+background-color:white;
+color:black;
+padding:3px;
+border: 2px solid black;
+border-radius:4px;
+}
+
+
+.main{
+background-color:#121212;
+background-opacity:0.7;
+margin:10px;
+border-radius:6px;
+}
+
+.stick{
+position:sticky;
+top: 0;
+}
+
+h1{
+text-align:center;
+padding-top:10px;
+font-family: font-family: 'Montserrat Subrayada', sans-serif;
+color:#fff1e1;
+}
+h2{
+font-size:100px; 
+color:#ffef00;
+text-align:center;
+padding-bottom:20px; 
+text-shadow:4px 4px 6px white;
+font-family: font-family: 'Montserrat Subrayada', sans-serif;
+
+}
+
+p{
+padding-left:150px;
+padding-right:150px;
+padding-bottom:50px;
+color:white;
+font-family: 'Great Vibes', cursive;
+font-size: 30px;
+text-align:center;
+}
+.main1{
+background-color:#262223;
+margin:10px;
+border-radius:6px;
+padding-bottom:20px;
+}
+img{
+
+padding-left:120px;
+}
+
+#footer{
+background:brown;
+height:40px;
+margin:10px;
+padding-top:15px;
+font-size:20px;
+text-align: center;
+color:white;
+}
+
